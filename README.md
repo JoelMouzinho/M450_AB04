@@ -1,3 +1,2 @@
 Dies ist eine README Datei für das Arbeitsblatt 04 aus dem Modul 450!
-Dies ist nun eine Änderung an der README Datei aus dem "dev" Branch!
-Das ist die dritte Zeile für Aufgabe 3a!
+Dies ist nun eine Änderung an der gleichen Zeile im dev Branch!
